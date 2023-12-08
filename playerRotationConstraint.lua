@@ -1,11 +1,12 @@
 --[[
 
-Purpose: Adds players to a table and places their constraint instances underneath them;
-Then has a function that combines the constraint instances
+Purpose:
+Adds players to a table and places their constraint instances underneath them; Then has a function that combines the constraint instances.
+Current version of the code has latency issues since everything is server sided. A client sided version is recommended.
 
-Author: Zubair
+Author: Zubair Azizi
 
-Last modified: 2023/10/23
+Last modified: 2023/12/08
 
 ]]--
 
